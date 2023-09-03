@@ -1,0 +1,44 @@
+body{
+    background-color: lightgray;
+    margin: 0;
+}
+
+.container-sm{
+    background-color: gray;
+    color: white;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;   
+}
+
+.bg-sm{   
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+   
+}
+
+.row{
+    padding-top: 10px;    
+}
+
+a{
+    margin-left: 20px;
+}
+
+.footer{
+    width: 100%;
+    min-height: 200px;
+    text-align: center;
+    position: static;
+    margin: 20px 0;
+    padding-top: 100px;
+}
